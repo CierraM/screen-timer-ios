@@ -13,8 +13,8 @@ import UserNotifications
 
 class TimerModel: ObservableObject {
 //    1200 sec in 20 minutes
-    let initialTime = 1200.00
-    let showMessageTime = 30.00
+    let initialTime = 5.00
+    let showMessageTime = 3.00
     var totalTime : Double
     @Published var timeLeft : Double
     public var timer = Timer()

@@ -3,7 +3,7 @@
 This is an app I used to learn SwiftUI. It is a timer to remind a person to look away from their device every 20 minutes to prevent eye strain.
 
 Video link:
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](http://youtu.be/hRfbHqqdd2A?hd=1)
 
 # Development Environment
 
